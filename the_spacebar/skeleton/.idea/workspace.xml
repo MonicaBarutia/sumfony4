@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ab1454f-32de-4942-a0d1-9f1e19c0e3f5" name="Default Changelist" comment="" />
+    <list default="true" id="3ab1454f-32de-4942-a0d1-9f1e19c0e3f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Entity/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Article.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
           <entry key="js" value="1" />
           <entry key="json" value="3" />
           <entry key="log" value="1" />
-          <entry key="php" value="12" />
+          <entry key="php" value="13" />
           <entry key="twig" value="3" />
           <entry key="yaml" value="13" />
         </counts>
@@ -39,7 +41,7 @@
         <counts>
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="1" />
-          <entry key="PHP" value="12" />
+          <entry key="PHP" value="13" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Twig" value="3" />
           <entry key="YAML" value="13" />
@@ -50,7 +52,7 @@
           <entry key="dist" value="3" />
           <entry key="env" value="95" />
           <entry key="js" value="261" />
-          <entry key="php" value="2633" />
+          <entry key="php" value="2646" />
           <entry key="twig" value="804" />
           <entry key="yaml" value="372" />
         </counts>
@@ -58,7 +60,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="261" />
-          <entry key="PHP" value="2633" />
+          <entry key="PHP" value="2646" />
           <entry key="PLAIN_TEXT" value="98" />
           <entry key="Twig" value="804" />
           <entry key="YAML" value="372" />
@@ -99,7 +101,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Entity/Article.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-663" />
+            <state relative-caret-position="204">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -138,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/Service/SlackClient.php" />
         <option value="$PROJECT_DIR$/src/Command/ArticleStatsCommand.php" />
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/src/Entity/Article.php" />
       </list>
     </option>
   </component>
@@ -306,6 +311,12 @@
               <item name="skeleton" type="b2602c69:ProjectViewProjectNode" />
               <item name="skeleton" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -375,12 +386,12 @@
       <workItem from="1540288135840" duration="907000" />
       <workItem from="1540289076712" duration="2610000" />
       <workItem from="1540291837783" duration="3603000" />
-      <workItem from="1540364425007" duration="43424000" />
+      <workItem from="1540364425007" duration="44013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50544000" />
+    <option name="totallyTimeSpent" value="51133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1929" y="211" width="1329" height="1047" extended-state="0" />
@@ -594,9 +605,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migrations/Version20181029082141.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Article.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663" />
+        <state relative-caret-position="204">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        </state>
       </provider>
     </entry>
   </component>
